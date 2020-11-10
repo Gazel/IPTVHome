@@ -110,17 +110,17 @@ https://cdnjt25.useetv.com/joss/14/euronews/chunklist_w1419850302_b684100_sleng_
 
 ######## Movies #########
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",IMC
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies UseeTV",IMC
 https://cdnjt25.useetv.com/joss/14/imc/chunklist_w1819433698_b684100_sleng_9052.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",Cinema World
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies UseeTV",Cinema World
 https://cdnjt25.useetv.com/joss/14/cinemaworld/chunklist_w1985991905_b684100_sleng_9072.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",Flik
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies UseeTV",Flik
 https://cdnjt25.useetv.com/joss/15/flik/chunklist_w805712818_b1344100_sleng_528597.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",Galaxy
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies UseeTV",Galaxy
 https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_w890950005_b494100_sleng_372369.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",Thrill
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies UseeTV",Thrill
 https://cdnjt25.useetv.com/joss/14/thrill/chunklist_w293823932_b684100_sleng_9107.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies",ZBioskop
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Movies UseeTV",ZBioskop
 https://cdnjt25.useetv.com/joss/14/zbioskop/chunklist_w1968551564_b684100_sleng_9118.m3u8
 
 ######## Music #########
@@ -231,7 +231,6 @@ https://cdnbal1.useetv.com/joss/14/eljohn/chunklist_w1632549077_b944100_sleng_12
 
 ######## LUAR NEGRI #########
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KIDS",ANIMAX
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="KIDS",ANIPLUS
@@ -336,9 +335,6 @@ https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Redby
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="SPORTS", FOX SPORTS 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8

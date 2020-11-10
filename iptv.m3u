@@ -363,29 +363,51 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="MOVIES",ZEE BIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO 1
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO 3
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", HBO Redby
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies FHD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/1478
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Movie",FOX Action Movies HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/99
+#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX Crime HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="Movie",FOX Crime HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/763
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family Movies ID" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="Movie",FOX Family Movies ID
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/14994
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX HD" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="Movie",FOX HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/95
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX Life HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Movie",FOX Life HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/94
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Movie",FOX Movies HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/98
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movie",Galaxy Premium SD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/29603
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Movie",Galaxy SD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/29604
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/592
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family FHD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/30184
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Family SD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/26598
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="Movie",HBO FHD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/1496
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/210
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movie",HBO Hits FHD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/11492
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/591
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movie",HBO Hits SD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/26596
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Movie",HBO SD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/26595
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature FHD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/1498
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature HD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/873
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movie",HBO Signature SD
+http://tvku.live:8888/13Feb2020/nbS4UrpjzV/26597
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Fox Premium Movies
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="MOVIES", Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="SPORTS", FOX SPORTS 1

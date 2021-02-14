@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HBO-FOX", FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="FOX", FOX
 https://warkop.xyz/m3u/fox.m3u8
-#EXTINF:-1 tvg-logo="https://warkop.xyz/img/fox.png" group-title="HBO-FOX", FOX FHD
+#EXTINF:-1 tvg-logo="https://warkop.xyz/img/fox.png" group-title="FOX", FOX FHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HBO-FOX", FOX CRIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="FOX", FOX CRIME
 https://warkop.xyz/m3u/foxcrime.m3u8
-#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxcrime.png" group-title="HBO-FOX", FOX CRIME FHD
+#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxcrime.png" group-title="FOX", FOX CRIME FHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HBO-FOX", FOX LIFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="FOX", FOX LIFE
 https://warkop.xyz/m3u/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxlife.png" group-title="HBO-FOX", FOX LIFE FHD
+#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxlife.png" group-title="FOX", FOX LIFE FHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HBO-FOX", FOX MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="FOX", FOX MOVIES
 https://warkop.xyz/m3u/foxmovies.m3u8
-#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxmovies.png" group-title="HBO-FOX", FOX MOVIES FHD
+#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxmovies.png" group-title="FOX", FOX MOVIES FHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HBO-FOX", FOX ACTION MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="FOX", FOX ACTION MOVIES
 https://warkop.xyz/m3u/foxactionmovies.m3u8
-#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxaction.png" group-title="HBO-FOX", FOX ACTION MOVIES FHD
+#EXTINF:-1 tvg-logo="https://warkop.xyz/img/foxaction.png" group-title="FOX", FOX ACTION MOVIES FHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HBO-FOX", FOX FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="FOX", FOX FAMILY
 https://warkop.xyz/m3u/foxfamily.m3u8
